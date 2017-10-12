@@ -1,0 +1,15 @@
+.cache/
+.terraform/
+.vagrant/
+tmp/
+*.backup
+*.box
+*.crt
+*.log
+*.swp
+*.tfplan
+*.tfstate
+.DS_Store
+_log
+out
+ssh.conf

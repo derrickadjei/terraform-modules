@@ -1,6 +1,5 @@
-# Terraform Modules from CR WebOps
+# Terraform Modules  WebOps
 
-Terraform modules to create CR infrastructure in AWS.
 
 Modules
 =======
